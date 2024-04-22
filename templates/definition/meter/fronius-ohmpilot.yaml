@@ -9,7 +9,7 @@ params:
   - name: host
   - name: key
     description:
-      de: ID des Ohmpilot im SolarAPI
+      de: ID des Ohmpiloten im SolarAPI
       en: ID of the Ohmpilot in SolarAPI
     default: 0
     advanced: true
